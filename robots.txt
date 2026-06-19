@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mayburyn.github.io/apphome-aiyouxi-com-cn/sitemap.xml
